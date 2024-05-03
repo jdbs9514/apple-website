@@ -101,14 +101,14 @@ const VideoCarousel = () => {
       }
 
       const animUpdate = () => {
-        anim.progress(videoRef.current[videoId].currentTime / hightlightsSlides[videoId].videoDuration)
-      }
+        anim.progress(videoRef.current[videoId].currentTime / hightlightsSlides[videoId].videoDuration);
+      };
   
       if(isPlaying) {
         gsap.ticker.add(animUpdate);
       } else {
         gsap.ticker.remove(animUpdate)
-      }
+      };
     }
 
    
