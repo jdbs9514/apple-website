@@ -1,8 +1,18 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Iphone web Clone
 
-Currently, two official plugins are available:
+This is a Iphone website clone by using **GSAP** for better animations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![](/public/assets/images/apple.png)
+
+## Live Demo (if available)
+
+[Live Demo Link](https://stellar-boba-fc8451.netlify.app/)
+
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@jdbs9514](https://github.com/jdbs9514)
+- LinkedIn: [Josué Benavides](https://linkedin.com/in/macoin)
